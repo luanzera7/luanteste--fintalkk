@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.cfca0f26.css",
+    "main.js": "/static/js/main.fab4003c.js",
+    "static/js/480.34283b5e.chunk.js": "/static/js/480.34283b5e.chunk.js",
+    "static/js/984.18d7dba9.chunk.js": "/static/js/984.18d7dba9.chunk.js",
+    "static/media/signup.jpg": "/static/media/signup.25fb92d3f001997679d9.jpg",
+    "static/media/FintalkIcon.png": "/static/media/FintalkIcon.ac92667ec8f7569c84c3.png",
+    "index.html": "/index.html",
+    "main.cfca0f26.css.map": "/static/css/main.cfca0f26.css.map",
+    "main.fab4003c.js.map": "/static/js/main.fab4003c.js.map",
+    "480.34283b5e.chunk.js.map": "/static/js/480.34283b5e.chunk.js.map",
+    "984.18d7dba9.chunk.js.map": "/static/js/984.18d7dba9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cfca0f26.css",
+    "static/js/main.fab4003c.js"
+  ]
+}
